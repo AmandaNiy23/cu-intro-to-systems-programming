@@ -1,0 +1,13 @@
+Program Author: Amanda Niyonkuru (100938974)
+
+Program Purpose:
+The purpose of the program is to compute and return the greatest common divisor (GCD) of two integers.
+
+Source Files:
+divisor.c
+
+Compilation Command:
+gcc -Wall -o divisor -std=c99 divisor.c
+
+Execution Command:
+./divisor (in same directory of executable)
